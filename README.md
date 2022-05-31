@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Saira-kanwal
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web Developing.
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me.. https://www.linkedin.com/in/saira-rao/
 
 <!---
 Saira-kanwal/Saira-kanwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
