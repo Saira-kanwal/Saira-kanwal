@@ -1,21 +1,31 @@
-📱 Mobile App Developer | Software Engineer 💻
+# Software Engineer | Flutter Developer | Aspiring AI Enthusiast
 
-Hey there! 👋 I'm Saira Kanwal, a passionate software engineer and mobile app developer, ready to revolutionize the digital landscape through cutting-edge technology and innovative solutions.
+Hello there,
+I am a S𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘨𝘳𝘢𝘥𝘶𝘢𝘵𝘦 𝘸𝘪𝘵𝘩 𝘢 𝘴𝘵𝘳𝘰𝘯𝘨 𝘧𝘰𝘶𝘯𝘥𝘢𝘵𝘪𝘰𝘯 𝘪𝘯 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘥𝘦𝘴𝘪𝘨𝘯 𝘢𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵, 𝘴𝘱𝘦𝘤𝘪𝘢𝘭𝘪𝘻𝘪𝘯𝘨 𝘪𝘯 𝘤𝘳𝘰𝘴𝘴-𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵. 𝘐'𝘷𝘦 𝘤𝘳𝘦𝘢𝘵𝘦𝘥 𝘯𝘶𝘮𝘦𝘳𝘰𝘶𝘴 𝘴𝘶𝘤𝘤𝘦𝘴𝘴𝘧𝘶𝘭 𝘢𝘱𝘱𝘴 𝘶𝘴𝘪𝘯𝘨 𝘍𝘭𝘶𝘵𝘵𝘦𝘳 𝘢𝘯𝘥 𝘤𝘰𝘯𝘵𝘪𝘯𝘶𝘦 𝘵𝘰 𝘦𝘹𝘱𝘢𝘯𝘥 𝘮𝘺 𝘦𝘹𝘱𝘦𝘳𝘵𝘪𝘴𝘦. 𝘈𝘴 𝘢 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳, 𝘐'𝘮 𝘥𝘦𝘥𝘪𝘤𝘢𝘵𝘦𝘥 𝘵𝘰 𝘤𝘳𝘢𝘧𝘵𝘪𝘯𝘨 𝘳𝘰𝘣𝘶𝘴𝘵 𝘢𝘯𝘥 𝘴𝘤𝘢𝘭𝘢𝘣𝘭𝘦 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴, 𝘱𝘳𝘰𝘧𝘪𝘤𝘪𝘦𝘯𝘵 𝘪𝘯 𝘧𝘶𝘭𝘭-𝘴𝘵𝘢𝘤𝘬 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵, 𝘢𝘯𝘥 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦𝘥 𝘪𝘯 𝘥𝘦𝘴𝘪𝘨𝘯𝘪𝘯𝘨 𝘦𝘧𝘧𝘪𝘤𝘪𝘦𝘯𝘵 𝘢𝘭𝘨𝘰𝘳𝘪𝘵𝘩𝘮𝘴 𝘢𝘯𝘥 𝘥𝘢𝘵𝘢 𝘴𝘵𝘳𝘶𝘤𝘵𝘶𝘳𝘦𝘴. 𝘐'𝘮 𝘤𝘰𝘮𝘮𝘪𝘵𝘵𝘦𝘥 𝘵𝘰 𝘭𝘪𝘧𝘦𝘭𝘰𝘯𝘨 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘢𝘯𝘥 𝘴𝘵𝘢𝘺𝘪𝘯𝘨 𝘢𝘵 𝘵𝘩𝘦 𝘧𝘰𝘳𝘦𝘧𝘳𝘰𝘯𝘵 𝘰𝘧 𝘦𝘮𝘦𝘳𝘨𝘪𝘯𝘨 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴.
 
-🚀 With a knack for transforming ideas into functional applications, I thrive on creating seamless user experiences that make a real impact. From brainstorming to deployment, I love being involved in every step of the development process.
+## My Projects
 
-📚 Armed with a solid foundation in software engineering, I continually enhance my skills to stay at the forefront of the ever-evolving mobile app industry. Whether it's iOS or Android, I embrace the challenge of crafting elegant code that brings ideas to life.
+### Flutter
 
-🔧 From feature-rich consumer apps to robust enterprise solutions, I have a proven track record of delivering high-quality products that exceed client expectations. I excel in collaborating with cross-functional teams, ensuring efficient communication and timely project delivery.
+1. E-commerce App (in progress)
+2. [Food Ordering Apph](https://github.com/Saira-kanwal/food-app-with-firebase)
+3. [Chatbot](https://github.com/Saira-kanwal/flutter_chatbot)
+4. [News App](https://github.com/Saira-kanwal/news-app)
+5. [Money Manager App](https://github.com/Saira-kanwal/money-manager-app)
+6. [Whatsapp UI](https://github.com/Saira-kanwal/whatsapp_clone_mvc/tree/main/whatsapp_mvc_clone)
+7. [Youtube Video downloader](https://github.com/Saira-kanwal/Youtube-Video-Downloader)
 
-💡 Innovation is my driving force. I constantly explore emerging technologies and trends to leverage the latest tools and frameworks, optimizing performance and pushing boundaries. Adaptable and resourceful, I'm always ready to tackle new challenges head-on.
+### Web design
 
-🌍 Beyond coding, I'm fascinated by the potential of technology to create positive change. I actively participate in community initiatives, leveraging my skills to make a meaningful impact on people's lives.
+1. [Personal Porfolio](https://github.com/Saira-kanwal/porfolio-site)
+2. [Business Portfolio](https://github.com/Saira-kanwal/XpertPackagingSolutions)
 
-🎓 I hold a degree in BS Software Engineering and have 2 years of professional experience in mobile app development. With a passion for creating intuitive interfaces and scalable architectures, I'm dedicated to delivering excellence with every project.
+### Python
 
-Let's connect and explore the exciting world of mobile app development together! Feel free to reach out and let's discuss how we can bring your ideas to life. 📲💡
+1. [Learnings & Practice](https://github.com/Saira-kanwal/Python-learning-joureny)
 
-https://www.linkedin.com/in/saira-rao/
+[𝕷𝖊𝖙'𝖘 𝖈𝖔𝖓𝖓𝖊𝖈𝖙 𝖆𝖓𝖉 𝖈𝖔𝖑𝖑𝖆𝖇𝖔𝖗𝖆𝖙𝖊 𝖔𝖓 𝖎𝖓𝖓𝖔𝖛𝖆𝖙𝖎𝖛𝖊 𝖕𝖗𝖔𝖏𝖊𝖈𝖙𝖘!](https://www.linkedin.com/in/saira-rao/)
+
+
 
 
