@@ -8,7 +8,7 @@ I am a S𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯�
 ### Flutter
 
 1. E-commerce App (in progress)
-2. [Food Ordering Apph](https://github.com/Saira-kanwal/food-app-with-firebase)
+2. [Food Ordering App](https://github.com/Saira-kanwal/food-app-with-firebase)
 3. [Chatbot](https://github.com/Saira-kanwal/flutter_chatbot)
 4. [News App](https://github.com/Saira-kanwal/news-app)
 5. [Money Manager App](https://github.com/Saira-kanwal/money-manager-app)
