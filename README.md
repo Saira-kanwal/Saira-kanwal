@@ -17,6 +17,8 @@ I am a S𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯�
 8. [Youtube Video downloader](https://github.com/Saira-kanwal/Youtube-Video-Downloader)
 9. [Multilingual-Flutter-App](https://github.com/Saira-kanwal/Multilingual-Flutter-App)
 10. [TODO App](https://github.com/Saira-kanwal/mvvm-example/tree/main/lib/todo)
+11. [Chat App with Firebase](https://github.com/Saira-kanwal/chatApp_Flutter-Firebase.git)
+12. [Pharmacy App]()
 
 
 ### WordPress Websites
