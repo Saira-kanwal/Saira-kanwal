@@ -23,15 +23,21 @@ I am a S𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯�
 
 ### WordPress Websites
 
-1. [Ace Minibus](https://aceminibustravel.co.uk/)
-2. [SOHO Express Transportation](https://sohoexpresstransportation.com/)
-3. [AZX Black](https://www.azxblack.com/)
-4. [Fast Cab Service](https://fastcabservice.nl/)
-5. [London Executive drive](https://londonexecutivedrive.com/)
-6. [Dokumente Registriertes](https://dokumenteregistriertes24.com/)
-7. [Elevage Familial Chiots De Race](https://elevagefamilialchiotsderace.com/)
-8. [Simply Radio](https://simplyradio.com/)
-9. [Compare Card Terminals](https://comparecardterminals.uk/)
+1. [Cosmocentra](https://cosmocentra.com/)
+2. [Dokumenteregistriertes20](https://dokumenteregistriertes20.com/)
+3. [Amazingharlybikes](https://amazingharlybikes.com/)
+4. [Ace Minibus](https://aceminibustravel.co.uk/)
+5. [SOHO Express Transportation](https://sohoexpresstransportation.com/)
+6. [AZX Black](https://www.azxblack.com/)
+7. [Fast Cab Service](https://fastcabservice.nl/)
+8. [London Executive drive](https://londonexecutivedrive.com/)
+9. [Dokumente Registriertes](https://dokumenteregistriertes24.com/)
+10. [Elevage Familial Chiots De Race](https://elevagefamilialchiotsderace.com/)
+11. [Simply Radio](https://simplyradio.com/)
+12. [Compare Card Terminals](https://comparecardterminals.uk/)
+13. [Zenandzest](https://zenandzest.org/)
+14. [https://shopella.store/](https://shopella.store/)
+15. [Trimtale](https://trimtale.com/)
 
 ### Web design (Frontend)
 
